@@ -1,1 +1,1 @@
-# demo-c
+# study language c 
